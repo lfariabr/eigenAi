@@ -10,7 +10,7 @@ st.set_page_config(
 from views import home, set1Problem1, set1Problem2, set2Problem1, set2Problem2, set3Problem1
 
 # ---- Sidebar Header ----
-logo_url = "https://github.com/lfariabr/masters-swe-ai/blob/master/2025-T2/T2-MFA/projects/eigenai/assets/logo2.png?raw=true"
+logo_url = "https://github.com/lfariabr/eigenAi/blob/master/assets/logo2.png"
 # logo_url = "assets/logo2.png"
 st.sidebar.image(logo_url, width="stretch")
 st.sidebar.markdown("---")
